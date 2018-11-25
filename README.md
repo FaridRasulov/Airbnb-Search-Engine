@@ -10,7 +10,7 @@ The homework consists in analyzing the text of Airbnb property listings and buil
 ## Script descriptions
 
 1. __`Homework_ADM_3.ipynb`__: 
-	> [This]() file consists of the code script with commets and explanations.
+	> [This](https://github.com/FaridRasulov/HW3ADMGRP3/blob/master/Homework_ADM_3.ipynb) file consists of the code script with commets and explanations.
 
 2. __`PLOTS`__:
     >  [This](https://github.com/FaridRasulov/HW3ADMGRP3/tree/master/PLOTS) file consists of the plots for bonus part of homework.

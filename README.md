@@ -1,5 +1,5 @@
 
-# Homework 3 - Find the perfect place to stay in Texas!
+# Find the perfect place to stay in Texas!
 
 The homework consists in analyzing the text of Airbnb property listings and building a search engine.
 
